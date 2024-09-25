@@ -1,0 +1,10 @@
+	Blue	NO_FILL	0	0	0
+	popUpAction	1	4	HEX	1	305	263	Blue	NO_FILL
+	popUpAction	10	5
+	popUpAction	11	6
+	popUpAction	1	5	SQUARE	2	713	309	Red	Yellow
+	Select	733	280
+	Delete
+	Select	290	235
+	popUpAction	10	4
+	popUpAction	1	2	CIRCLE	3	727	449	672	268	Orange	Yellow
